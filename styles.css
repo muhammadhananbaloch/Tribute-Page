@@ -1,0 +1,54 @@
+*{
+    font-family: sans-serif;
+    font-size: 16px;
+  }
+  h1{
+    font-size: 50px;
+  }
+  header{
+    text-align: center;
+    padding: 0;
+    margin: 10;
+    
+  }
+  main{
+  background-color: lightgrey;
+  border-radius: 5px;
+  margin: auto
+  }
+  #img-div{
+    display: flex;
+    justify-content:center;
+  }
+  img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #img-caption{
+    text-align: center;
+  }
+  #bold{
+    font-weight: 700;
+  }
+  
+  #timeline, #timeline-heading{
+    display: flex;
+    justify-content: center;
+    
+  }
+  #timeline{
+    margin: auto;
+    width: 60%;
+  }
+#tribute-final{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+li{
+    padding-bottom: 20px;
+    
+}
+  
