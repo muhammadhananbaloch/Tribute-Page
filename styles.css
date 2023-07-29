@@ -52,3 +52,7 @@ li{
 .tribute-final, #timeline-heading{
     font-size: 20px
 }
+#img-div{
+  background-color: white;
+  margin: auto 10px;
+}
